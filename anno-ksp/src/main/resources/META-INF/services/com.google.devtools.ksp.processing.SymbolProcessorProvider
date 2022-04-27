@@ -1,0 +1,2 @@
+io.ddd.processor.annotation.provider.EnumProcessorProvider
+io.ddd.processor.annotation.provider.InterfaceToImplProvider
